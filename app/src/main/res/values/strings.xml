@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sprinkler Assignement</string>
+    <string name="cont">Continue</string>
+    <string name="trending">Trending</string>
+    <string name="macchine">Machine Learning</string>
+    <string name="ed_tech">Ed Tech</string>
+    <string name="medical_tech">Medical Technology</string>
+    <string name="bookmark">My Bookmarks</string>
+    <string name="none">None</string>
+    <string name="apply_filter">Apply Filter</string>
+
+
+</resources>
